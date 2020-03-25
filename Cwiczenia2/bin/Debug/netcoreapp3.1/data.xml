@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<uczelnia xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student Nazwisko="Kowalski">
+    <Imie>Jan</Imie>
+  </Student>
+</uczelnia>
